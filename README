@@ -17,7 +17,7 @@ comments in this form:
     //tag stuff
 
 The line comment starts at the beginning of the line. There can be no
-space between the '//' and the tag.
+space between the '//' and the tag. 
 
 Ecomcon is given a list of the names of the tags that should be enabled.
 
